@@ -49,9 +49,7 @@ To download the code, clone this repository to your local computer. This allows 
 
 Go the command line and navigate to the directory where you would like to store the code.
 
-Then type:  
-```git init```  
-followed by:   
+Then type:   
 ```git clone https://github.com/Piphi5/Mosquito-Habitat-Scripts.git```
 
 
